@@ -1,6 +1,7 @@
 
 <div id="jupyter-notebooks-for-linear-models-with-r-second-edition-in-python" class="section level1">
 <h1>Jupyter notebooks for <em>Linear Models with R, Second Edition</em> in Python</h1>
+Fuente:<h3>https://people.bath.ac.uk/jjf23/LMR/python/</h3>
 <p>I have translated most of the R code in the book into Python. Sometimes the Python output is similar but not the same. In a few cases, there is no available Python package equivalent to that found with R. I have long experience with R but not so much with Python so any suggestions for more elegant Python would be welcome.</p>
 <p>Read more about it in this <a href="https://wordpress.com/post/farawaystatistics.wordpress.com/478">blog post</a>.</p>
 <p>Here are the data as <a href="https://people.bath.ac.uk/jjf23/LMR/python/lmrcsv.zip" class="uri">lmrcsv.zip</a> as CSV files.</p>
